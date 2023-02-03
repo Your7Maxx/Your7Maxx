@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maxx.
-- 👀 I’m interested in Coding and Hacking.
-- 🌱 I’m currently learning Internet security of XiDian University.
+- 👀 Coding and Hacking.
+- 🌱 bala bala.
 - 📫 Mail : caoshijie@sechnic.com
 
 <!---
