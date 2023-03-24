@@ -1,10 +1,27 @@
-- 👋 Hi, I’m Maxx.
-- 👀 Coding and Hacking.
-- 🌱 bala bala.
-- 📫 Mail : caoshijie@sechnic.com
+# Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/Your7Maxx/count.svg)
 
-<!---
-Your7Maxx/Your7Maxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Your7Maxx)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+    <tr>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=Your7Maxx&show_icons=true&hide_border=true&theme=chartreuse-dark" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Your7Maxx&theme=github_dark&show_icons=true" align="right" /></center>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Your7Maxx&theme=vue" ></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Your7Maxx&theme=github&utcOffset=8" align="right" /></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Your7Maxx&theme=vue" align="right" /></center>
+        </td>
+    </tr>
+</table>
