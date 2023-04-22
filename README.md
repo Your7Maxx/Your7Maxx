@@ -1,6 +1,5 @@
 # Maxx's Github Profile
-You Are The: 
-![Welcome for Maxx](https://profile-counter.glitch.me/Your7Maxx/count.svg)
+
 
 <table>
     <tr>
