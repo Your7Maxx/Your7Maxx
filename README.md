@@ -1,4 +1,4 @@
-## Hey, Maxx here! :wave:
+## Hey :wave: Maxx here!
 
 
 <table>
